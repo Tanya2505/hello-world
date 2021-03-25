@@ -1,2 +1,3 @@
 # hello-world
-to learn python by this semester
+hey everyone
+my goal is to learn python by this semester
